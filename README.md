@@ -100,11 +100,16 @@ Follow the steps below to use the MYOSA Gesture-Based Wireless Presentation Cont
 - Verify successful Wi-Fi connection through serial logs.
 
 ### 3. Upload Firmware
-- Open the project code in the Arduino IDE.
-- Select the appropriate board for the **MYOSA motherboard**.
-- Upload the firmware to the device.
+## Usage Instructions
+Follow the steps below to quickly set up and use the software component of the Wireless Presentation Controller on a laptop or PC.
 
-```plaintext
-Upload → Verify → Flash to MYOSA motherboard
+### 1. Install Requirements
+Open **Command Prompt** (Windows) or **Terminal** (Linux/macOS) and run the following commands to install the required Python packages:
+
+```bash
+pip install pyautogui
+pip install socket
+
+
 
 ---
