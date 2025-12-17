@@ -21,7 +21,6 @@ Special thanks to **Prof. Satyanarayana Katukojwalawala** for his guidance and s
 ---
 
 ## Overview
-## Overview
 **The Wireless Presentation Controller using MYOSA** is a gesture-based, contactless system designed to control presentations without relying on physical input devices such as keyboards or clickers. The project enables presenters to navigate slides using **left**, **right**, **up**, and **down** hand gestures, as well as perform **zoom-in** and **zoom-out** operations, allowing more natural and intuitive interaction with presentation content.
 
 The system operates using the MYOSA board as the central processing and control unit. A gesture sensor detects directional hand movements, while motion data from the accelerometer and gyroscope enhances accuracy and minimizes false detections. These sensor inputs are processed in real time on the MYOSA board, where each recognized gesture is mapped to a specific presentation command such as slide navigation or zoom control. The commands are transmitted wirelessly to a laptop or PC using **Wi-Fi**, ensuring stable and low-latency communication. An OLED display provides real-time feedback by showing the connection status, recognized gestures, and the active control mode.
@@ -99,8 +98,7 @@ Follow the steps below to use the MYOSA Gesture-Based Wireless Presentation Cont
 - Connect the MYOSA motherboard to the same **Wi-Fi network** as the target device (laptop/PC).
 - Verify successful Wi-Fi connection through serial logs.
 ---
-## 3. Upload Firmware
-## Usage Instructions
+### 3. Upload Firmware
 Follow the steps below to quickly set up and use the software component of the Wireless Presentation Controller on a laptop or PC.
 
 ### 1. Install Requirements
@@ -124,12 +122,12 @@ python gesture_receiver.py
 
 -Use the gesture device to: 
 
-      ^Move to the next or previous slide.
-      ^Navigate up and down within slide content.  
-      ^Enter presentation mode (F5).  
-      ^Exit presentation using ESC gesture.  
-      ^Perform zoom in and zoom out operations.  
-      ^Navigate left, right, up, and down within zoomed slide content.  
+      -Move to the next or previous slide.
+      -Navigate up and down within slide content.  
+      -Enter presentation mode (F5).  
+      -Exit presentation using ESC gesture.  
+      -Perform zoom in and zoom out operations.  
+      -Navigate left, right, up, and down within zoomed slide content.  
 ---
 ## Tech Stack
 
