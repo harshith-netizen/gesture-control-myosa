@@ -1,15 +1,16 @@
 ---
-publishDate: 2025-01-01
-title: Gesture Control System using MYOSA
-excerpt: An ESP32-based hand gesture control system using the MYOSA sensor for presentations and media control.
+publishDate: xxxx-xx-xx
+title: Wireless Presentation Controller using Gestures
+excerpt: A MYOSA-based wireless presentation controller that enables slide navigation and media control using simple hand gestures.It transmits gesture data over Wi-Fi to control presentations and media in real time.
+The system enables fast, reliable, and contactless human–computer interaction.
 image: myosa-cover.jpg
 tags:
   - myosa
-  - esp32
+  - Wi-Fi Communication
   - gesture-control
 ---
 
-> Control presentations and media using simple hand gestures powered by MYOSA.
+>“Real-time, MYOSA powered hand gesture interface for wireless presentation control.”
 
 ---
 
