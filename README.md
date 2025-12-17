@@ -21,8 +21,15 @@ Special thanks to **Prof. Satyanarayana Katukojwalawala** for his guidance and s
 ---
 
 ## Overview
-The Gesture Control System using MYOSA is a contactless human–computer interaction project that allows users to control presentations and media applications using hand gestures.  
-The MYOSA gesture sensor detects directional hand movements, which are processed by the ESP32 and transmitted as keyboard commands via BLE.
+## Overview
+The Wireless Presentation Controller using MYOSA is a gesture-based, contactless system designed to control presentations without relying on physical input devices such as keyboards or clickers. The project enables users to navigate presentation slides using left, right, up, and down hand gestures, and also perform zoom-in and zoom-out operations, allowing presenters to interact with content more naturally and efficiently.
+
+The system operates using the MYOSA board as the central processing and control unit. A gesture sensor detects directional hand movements, while motion data from the accelerometer and gyroscope improves accuracy and reduces false detections. These sensor inputs are processed in real time on the MYOSA board, where each recognized gesture is mapped to a specific presentation command such as slide navigation or zoom control. The commands are transmitted wirelessly to a laptop or PC using Wi-Fi, enabling reliable and low-latency communication. An OLED display provides real-time feedback by showing connection status, recognized gestures, and the active control mode.
+
+This project is intended for students, educators, professionals, and presenters who deliver presentations in classrooms, seminars, conferences, and meetings. It is particularly useful in environments where hands-free control, freedom of movement, or hygiene considerations are important.
+
+The project addresses the limitations of traditional presentation controllers, which restrict mobility, require physical interaction, and offer limited control functionality. By leveraging the MYOSA platform and Wi-Fi communication, this solution provides a portable, cost-effective, and customizable alternative that demonstrates advanced human–machine interaction through gesture-based control.
+
 
 **Key features:**
 * Contactless interaction
