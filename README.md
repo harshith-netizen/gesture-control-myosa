@@ -108,17 +108,3 @@ Follow the steps below to use the MYOSA Gesture-Based Wireless Presentation Cont
 Upload → Verify → Flash to MYOSA motherboard
 
 ---
-
-## Tech Stack
-* **ESP32**
-* **MYOSA Gesture Sensor**
-* **Arduino IDE**
-* **BLE HID Library**
-
----
-
-## Requirements / Installation
-```bash
-Install Arduino IDE
-Add ESP32 board support
-Install MYOSA and BLE Keyboard libraries
