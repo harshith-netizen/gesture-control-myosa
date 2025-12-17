@@ -96,12 +96,12 @@ Follow the steps below to use the MYOSA Gesture-Based Wireless Presentation Cont
 
 ### 2. Network Configuration
 - Connect the MYOSA motherboard to the same **Wi-Fi network** as the target device (laptop/PC).
-- Verify successful Wi-Fi connection through serial logs.
+- Verify successful Wi-Fi connection through OLED display.
 ---
 ### 3. Upload Firmware
 Follow the steps below to quickly set up and use the software component of the Wireless Presentation Controller on a laptop or PC.
 
-### 1. Install Requirements
+#### 3.1. Install Requirements
 Open **Command Prompt** (Windows) or **Terminal** (Linux/macOS) and run the following commands to install the required Python packages:
 
 ```plaintext
@@ -109,12 +109,12 @@ pip install pyautogui
 pip install socket
 ```
 These packages are used for simulating keyboard actions and enabling basic network communication over Wi-Fi.
-### 2.Run the Receiver Script
+#### 3.2.Run the Receiver Script
 Navigate to the folder containing the project files and execute the receiver script:
 ```plaintext
 python gesture_receiver.py
 ```
-### 3.Use During Presentations
+### 4.Use During Presentations
 
 -Open PowerPoint or any compatible presentation application.  
 
