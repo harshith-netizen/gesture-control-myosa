@@ -133,14 +133,31 @@ python gesture_receiver.py
 ---
 ## Tech Stack
 
-* **Arduino UNO**  
-* **MYOSA Component Libraries**   
-* **Embedded C**  
-* **Wi-Fi Communication**
-* **UDP Protocol**
-* **Python**
-* **Python Socket Library**
-* **PyAutoGUI**
-* **Python Compiler / Interpreter**
+### Hardware & Software Components
+
+- **MYOSA Motherboard** – Main microcontroller responsible for gesture processing and Wi-Fi communication  
+
+- **MPU6050** – 6-axis accelerometer and gyroscope used for motion and gesture detection  
+
+- **SSD1306 OLED Display** – 128×64 OLED used for live gesture/status display (I2C address: `0x3C`)  
+
+- **Python with PyAutoGUI** – Used on the laptop side for keyboard automation and presentation control  
+
+- **Wi-Fi (UDP Protocol)** – Enables wireless transmission of gesture data using UDP on port `12345`
+
+---
+
+## Requirements / Installation
+### List all dependencies clearly:
+```plaintext
+pip install pyautogui
+pip install socket
+Note: socket is built in to Python (no install needed)
+```
+### Start the receiver:
+```plaintext
+python gesture_receiver.py
+```
+
 
       
