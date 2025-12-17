@@ -117,15 +117,15 @@ Navigate to the folder containing the project files and execute the receiver scr
 python gesture_receiver.py
 ```
 ### 3.Use During Presentations
--Open PowerPoint or any compatible presentation application.
--Keep gesture_receiver.py running in the background.
--Use the gesture device to:
-      ^Move to the next or previous slide
-      ^Navigate up and down within slide content
-      ^Enter presentation mode (F5)
-      ^Exit presentation using ESC gesture
-      ^Perform zoom in and zoom out operations
-      ^Navigate left, right, up, and down within zoomed slide content
+-Open PowerPoint or any compatible presentation application.  
+-Keep gesture_receiver.py running in the background.  
+-Use the gesture device to:  
+      ^Move to the next or previous slide.  
+      ^Navigate up and down within slide content  
+      ^Enter presentation mode (F5)  
+      ^Exit presentation using ESC gesture  
+      ^Perform zoom in and zoom out operations  
+      ^Navigate left, right, up, and down within zoomed slide content  
 ---
 
       
