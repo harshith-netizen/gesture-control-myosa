@@ -1,11 +1,7 @@
 ---
 publishDate: xxxx-xx-xx
 title: Wireless Presentation Controller using Gestures
-excerpt: |
-  A MYOSA-based wireless presentation controller that enables slide navigation
-  and media control using simple hand gestures. It transmits gesture data over
-  Wi-Fi to control presentations and media in real time. The system enables fast,
-  reliable, and contactless human–computer interaction.
+excerpt: A MYOSA-based wireless presentation controller enabling real-time slide navigation and media control using Wi-Fi based hand gestures.
 image: myosa-cover.jpg
 tags:
   - myosa
