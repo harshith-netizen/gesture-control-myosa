@@ -70,25 +70,42 @@ This project is intended for students, educators, professionals, and presenters 
 
 ## Key Features
 
-### 1. Gesture-Based Interaction
-The system accurately detects hand gestures using the MYOSA gesture sensor, enabling natural and intuitive control without physical contact.
+### Real-Time Gesture Recognition  
+The system accurately detects intuitive hand gestures using the MYOSA gesture sensor.  
+These gestures are processed instantly, enabling smooth and responsive control.
 
-### 2. Real-Time Wi-Fi Communication
-Recognized gestures are transmitted over Wi-Fi with minimal latency, ensuring smooth and responsive presentation and media control.
+### Wi-Fi–Based Wireless Communication  
+Gesture commands are transmitted over Wi-Fi, eliminating the need for physical remotes.  
+This ensures stable, low-latency communication during live presentations.
 
-### 3. Touch-Free Presentation Control
-Users can navigate slides and control media without keyboards or remotes, improving mobility, hygiene, and presentation flow.
+### Touch-Free Presentation Control  
+Users can navigate slides and control media without touching any device.  
+This improves hygiene, presenter mobility, and overall user experience.
 
-### 4. Embedded & Lightweight Design
-Built on the MYOSA platform with ESP32, the system is compact, power-efficient, and easy to deploy in classrooms and seminar environments.
+### Optimized Embedded System Design  
+Unused sensors and blocking delays are disabled to enhance performance.  
+This results in faster response, better reliability, and efficient power usage.
 
 ---
-
 ## Usage Instructions
-1. Power the MYOSA board using USB.
-2. Pair the device with a PC or laptop via Bluetooth.
-3. Open a presentation or media player.
-4. Perform hand gestures in front of the sensor.
+
+Follow the steps below to use the MYOSA Gesture-Based Wireless Presentation Controller.
+
+### 1. Hardware Setup
+- Power on the **MYOSA motherboard** using a USB cable or battery.
+- Ensure the MYOSA gesture sensor is enabled and properly initialized.
+
+### 2. Network Configuration
+- Connect the MYOSA motherboard to the same **Wi-Fi network** as the target device (laptop/PC).
+- Verify successful Wi-Fi connection through serial logs.
+
+### 3. Upload Firmware
+- Open the project code in the Arduino IDE.
+- Select the appropriate board for the **MYOSA motherboard**.
+- Upload the firmware to the device.
+
+```plaintext
+Upload → Verify → Flash to MYOSA motherboard
 
 ---
 
