@@ -46,13 +46,10 @@ This project is intended for students, educators, professionals, and presenters 
 * **Exit / ESC Mode Gesture** – Exits presentation mode using a gesture equivalent to the **ESC** key, enabling complete hands-free control.
 
 
-**Key features:**
+**Key features:**  
  **Real-Time Gesture Recognition**  
-
 - **Wi-Fi Based Wireless Control**  
-
 - **Touch-Free Human–Computer Interaction**  
-
 - **Lightweight & Scalable Embedded Design**  
 ---
 
@@ -71,16 +68,19 @@ This project is intended for students, educators, professionals, and presenters 
 
 ---
 
-## Features (Detailed)
+## Key Features
 
-### **1. Gesture Detection**
-The MYOSA sensor detects hand movements such as left, right, near, and far gestures within a short range.
+### 1. Gesture-Based Interaction
+The system accurately detects hand gestures using the MYOSA gesture sensor, enabling natural and intuitive control without physical contact.
 
-### **2. ESP32 Processing**
-The ESP32 processes gesture data and maps each gesture to a predefined keyboard action.
+### 2. Real-Time Wi-Fi Communication
+Recognized gestures are transmitted over Wi-Fi with minimal latency, ensuring smooth and responsive presentation and media control.
 
-### **3. BLE Keyboard Output**
-Using BLE HID, the ESP32 sends keyboard commands to control slides or media applications wirelessly.
+### 3. Touch-Free Presentation Control
+Users can navigate slides and control media without keyboards or remotes, improving mobility, hygiene, and presentation flow.
+
+### 4. Embedded & Lightweight Design
+Built on the MYOSA platform with ESP32, the system is compact, power-efficient, and easy to deploy in classrooms and seminar environments.
 
 ---
 
