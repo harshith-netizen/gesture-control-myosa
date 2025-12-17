@@ -43,16 +43,6 @@ This project is intended for students, educators, professionals, and presenters 
 * **Presentation Mode Gesture** – Enters **presentation (slideshow) mode** directly using a gesture, eliminating the need for manual keyboard interaction.
 
 * **Exit / ESC Mode Gesture** – Exits presentation mode using a gesture equivalent to the **ESC** key, enabling complete hands-free control.
-| Gesture          | Action on PC              |  
-|------------------|---------------------------|  
-| Slide Right      | Next slide                |  
-| Slide Left       | Previous slide            |  
-| Slide Up         | Scroll / move up          |
-| Slide Down       | Scroll / move down        |
-| Zoom-In Gesture  | Zoom into slide content   |
-| Zoom-Out Gesture | Zoom out to normal view   |
-| Presentation Mode| Start slideshow (F5)      |
-| ESC Gesture      | Exit slideshow (Esc)      |
 
 
 **Key features:**  
