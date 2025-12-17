@@ -30,6 +30,21 @@ The use of **Wi-Fi communication** offers significant advantages over Bluetooth-
 
 This project is intended for students, educators, professionals, and presenters who deliver presentations in classrooms, seminars, conferences, and meetings. It addresses the limitations of traditional presentation controllers that restrict mobility, require physical interaction, and offer limited control functionality. By leveraging the MYOSA platform and Wi-Fi-based communication, the system provides a portable, secure, and customizable solution that demonstrates effective human–machine interaction through advanced gesture-based control.
 
+* **Slide Right Gesture** – Moves to the **next slide**  
+* **Slide Left Gesture** – Moves to the **previous slide**  
+* **Slide Up Gesture** – Scrolls or navigates **upward** within the slide or content  
+* **Slide Down Gesture** – Scrolls or navigates **downward** within the slide or content  
+
+* **Zoom-In Gesture** – Zooms into slide content for detailed viewing  
+* **Zoom-Out Gesture** – Zooms out to the normal slide view  
+
+* **Post-Zoom Navigation** –  
+  After zooming in, the slide content can be moved **left**, **right**, **up**, and **down** using corresponding hand gestures, allowing the presenter to focus on specific regions of the slide.
+
+* **Presentation Mode Gesture** – Enters **presentation (slideshow) mode** directly using a gesture, eliminating the need for manual keyboard interaction.
+
+* **Exit / ESC Mode Gesture** – Exits presentation mode using a gesture equivalent to the **ESC** key, enabling complete hands-free control.
+
 
 **Key features:**
 * Contactless interaction
