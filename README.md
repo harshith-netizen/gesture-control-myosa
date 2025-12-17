@@ -47,11 +47,13 @@ This project is intended for students, educators, professionals, and presenters 
 
 
 **Key features:**
-* Contactless interaction
-* Real-time gesture detection
-* BLE-based keyboard control
-* Portable and low power
+ **Real-Time Gesture Recognition**  
 
+- **Wi-Fi Based Wireless Control**  
+
+- **Touch-Free Human–Computer Interaction**  
+
+- **Lightweight & Scalable Embedded Design**  
 ---
 
 ## Demo / Examples
