@@ -19,6 +19,7 @@ We would like to thank the MYOSA Innovation Challenge organizers for providing t
 We also acknowledge the guidance and support provided by our faculty mentor **Dr.Supraja Reddy** throughout the project.
 
 Special thanks to **Prof. Satyanarayana Katukojwalawala** for his guidance and support throughout this project.
+
 ---
 
 ## Overview
