@@ -124,12 +124,23 @@ python gesture_receiver.py
 
 -Use the gesture device to: 
 
-      ^Move to the next or previous slide.  
-      ^Navigate up and down within slide content  
-      ^Enter presentation mode (F5)  
-      ^Exit presentation using ESC gesture  
-      ^Perform zoom in and zoom out operations  
-      ^Navigate left, right, up, and down within zoomed slide content  
+      ^Move to the next or previous slide.
+      ^Navigate up and down within slide content.  
+      ^Enter presentation mode (F5).  
+      ^Exit presentation using ESC gesture.  
+      ^Perform zoom in and zoom out operations.  
+      ^Navigate left, right, up, and down within zoomed slide content.  
 ---
+## Tech Stack
+
+* **Arduino UNO**  
+* **MYOSA Component Libraries**   
+* **Embedded C**  
+* **Wi-Fi Communication**
+* **UDP Protocol**
+* **Python**
+* **Python Socket Library**
+* **PyAutoGUI**
+* **Python Compiler / Interpreter**
 
       
