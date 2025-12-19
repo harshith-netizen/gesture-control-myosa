@@ -97,7 +97,7 @@ Follow the steps below to use the MYOSA Gesture-Based Wireless Presentation Cont
 ### 2. Network Configuration
 - Connect the MYOSA motherboard to the same **Wi-Fi network** as the target device (laptop/PC).
 - Verify successful Wi-Fi connection through OLED display.
----
+- 
 ### 3. Upload Firmware
 Follow the steps below to quickly set up and use the software component of the Wireless Presentation Controller on a laptop or PC.
 
