@@ -1,5 +1,5 @@
 ---
-publishDate: xxxx-xx-xx
+publishDate: 2025-12-31
 title: Wireless Presentation Controller using Gestures
 excerpt: A MYOSA-based wireless presentation controller enabling real-time slide navigation and media control using Wi-Fi based hand gestures.
 image: cover.jpeg
