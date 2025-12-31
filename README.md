@@ -56,7 +56,7 @@ This project is intended for students, educators, professionals, and presenters 
 
 ### **Images**
 <p align="center">
-  <img src="[/gesture-demo.jpg](https://github.com/harshith-netizen/gesture-control-myosa/blob/main/2025%20vision%20board.png?raw=true)" width="800"><br/>
+  <img src="2025 vision board.png" width="800"><br/>
   <i>Hand gesture detection using MYOSA sensor</i>
 </p>
 
