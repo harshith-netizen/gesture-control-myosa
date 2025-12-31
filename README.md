@@ -21,7 +21,7 @@ Special thanks to **Prof. Satyanarayana Katukojwalawala** for his guidance and s
 ---
 
 ## Overview
-**The Wireless Presentation Controller using MYOSA** is a gesture-based, contactless system designed to control presentations without relying on physical input devices such as keyboards or clickers. The project enables presenters to navigate slides using **left**, **right**, **up**, and **down** hand gestures, as well as perform **zoom-in** and **zoom-out** operations, allowing more natural and intuitive interaction with presentation content.
+**The Wireless Presentation Controller using MYOSA Mother board and it's sensors** is a gesture-based, contactless system designed to control presentations without relying on physical input devices such as keyboards or clickers. The project enables presenters to navigate slides using **left**, **right**, **up**, and **down** hand gestures, as well as perform **zoom-in** and **zoom-out** operations, allowing more natural and intuitive interaction with presentation content.
 
 The system operates using the MYOSA board as the central processing and control unit. A gesture sensor detects directional hand movements, while motion data from the accelerometer and gyroscope enhances accuracy and minimizes false detections. These sensor inputs are processed in real time on the MYOSA board, where each recognized gesture is mapped to a specific presentation command such as slide navigation or zoom control. The commands are transmitted wirelessly to a laptop or PC using **Wi-Fi**, ensuring stable and low-latency communication. An OLED display provides real-time feedback by showing the connection status, recognized gestures, and the active control mode.
 
