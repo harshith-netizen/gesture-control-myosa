@@ -56,7 +56,7 @@ This project is intended for students, educators, professionals, and presenters 
 
 ### **Images**
 <p align="center">
-  <img src="2025 vision board.png" width="800"><br/>
+  <img src="cover.jpeg" width="800"><br/>
   <i>Hand gesture detection using MYOSA sensor</i>
 </p>
 
