@@ -62,7 +62,7 @@ This project is intended for students, educators, professionals, and presenters 
 
 ### **Videos**
 <video controls width="100%">
-  <source src="/gesture-demo.mp4" type="video/mp4">
+  <source src="/myosa-demo.mp4" type="video/mp4">
 </video>
 
 ---
